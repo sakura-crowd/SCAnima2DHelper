@@ -10,7 +10,7 @@ SCAnima2DHelper は Anima2D のバージョン： 1.1.4 (Dec 21, 2017) に対応
 
 Anima2D は静止画からアニメーションを作成することができます。  
 
-![Anima2Dのアニメーション例](README_DATA\miko_anima2d_animation20180708.gif)
+![Anima2Dのアニメーション例](README_DATA/miko_anima2d_animation20180708.gif)
 
 SCAnima2DHelper のライセンスは LICENSE.txt に書いてあるとおりです。  
 自己責任の上でご自由にお使いください。  
@@ -27,7 +27,7 @@ SCAnima2DHelper をインポートする前に、 [Anima2D](https://www.assetsto
 
 Unity Editor が起動しているならば、 unitypackage ファイルをダブルクリックしても同様にインポートできると思います。  
 
-![SCAnima2DHelperのインポート](README_DATA\SCAnima2DHelperのインポート.png)
+![SCAnima2DHelperのインポート](README_DATA/SCAnima2DHelperのインポート.png)
 
 インポートされると、エディタのメニューから機能を呼び出すことができます。  
 
@@ -43,7 +43,7 @@ SpriteMesh アセットを１個ずつシーンに D&D して追加するのが�
 [Create]＞[SCAnima2DHelper]＞[Multi SpriteMesh Instantiate]  
 で、シーンに複数の SpriteMeshInstance のゲームオブジェクトが一括追加されます。  
 
-![Multi SpriteMesh Instantiate のデモ](README_DATA\SCAnima2DHelper01.gif)
+![Multi SpriteMesh Instantiate のデモ](README_DATA/SCAnima2DHelper01.gif)
 
 ### 機能2. SpriteMeshInstance Layout
 シーン上で画像を配置するのは面倒なのと、ずれてしまうと絵の印象がかわるので作ったエディタ格調です。  
@@ -51,11 +51,11 @@ SpriteMesh アセットを１個ずつシーンに D&D して追加するのが�
 [GameObject]＞[SCAnima2DHelper]＞[SpriteMesh Layout]  
 で、指定された名前のゲームオブジェクトを指定された位置に配置し、表示順も設定します。  
 
-![SpriteMeshInstance Layout のデモ](README_DATA\SCAnima2DHelper02.gif)
+![SpriteMeshInstance Layout のデモ](README_DATA/SCAnima2DHelper02.gif)
 
 この機能を使うには、次のウィンドウで設定する必要があります。  
 
-![SpriteMeshInstance Layout のデモ2](README_DATA\SpriteMeshLayoutウィンドウ.png)
+![SpriteMeshInstance Layout のデモ2](README_DATA/SpriteMeshLayoutウィンドウ.png)
 
 パーツの位置情報は、  
 * 画像名(拡張子は除く)
