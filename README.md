@@ -6,7 +6,7 @@ SCAnima2DHelper は Unity の Anima2D を使う際に補助するための機能
 
 SCAnima2DHelper は Anima2D のバージョン： 1.1.4 (Dec 21, 2017) に対応しています。  
 
-![SCAnima2DHelper のデモ](README_DATA\Anima2DHelper_demo20180706.gif "SCAnima2DHelper のデモ")
+![SCAnima2DHelper のデモ](README_DATA/Anima2DHelper_demo20180706.gif)
 
 Anima2D は静止画からアニメーションを作成することができます。  
 
