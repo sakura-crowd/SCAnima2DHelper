@@ -48,7 +48,7 @@ SpriteMesh アセットを１個ずつシーンに D&D して追加するのが�
 ### 機能2. SpriteMeshInstance Layout
 シーン上で画像を配置するのは面倒なのと、ずれてしまうと絵の印象がかわるので作ったエディタ格調です。  
 シーンに SpriteMeshInstance のゲームオブジェクトを追加した状態で、  
-[GameObject]＞[SCAnima2DHelper]＞[SpriteMesh Layout]  
+[GameObject]＞[SCAnima2DHelper]＞[SpriteMeshInstance Layout]  
 で、指定された名前のゲームオブジェクトを指定された位置に配置し、表示順も設定します。  
 
 ![SpriteMeshInstance Layout のデモ](README_DATA/SCAnima2DHelper02.gif)
