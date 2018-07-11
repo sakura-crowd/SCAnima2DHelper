@@ -74,4 +74,9 @@ SeparatorChar は区切り文字です。タブ区切り以外、例えば CSV �
 
 ## さらに詳しい説明
 SCAnima2DHelper の詳しい説明は Qiita をご覧ください。  
+[描いた絵を Unity の Anima2D でぴたっと配置するための我流メモ - Qiita](https://qiita.com/sakura-crowd/items/4d59a4e221345baa812b)  
 SCAnima2DHelper の使い方以外にも、Anima2D を使って SpriteMesh をシーンに配置するまでの手順を紹介しています。  
+
+## 更新履歴
+
+* 2018/07/11 新規作成。github にて公開。
