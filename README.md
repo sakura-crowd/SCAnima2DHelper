@@ -5,6 +5,7 @@ Unity のエディタ拡張です。
 SCAnima2DHelper は Unity の Anima2D を使う際に補助するための機能を提供します。  
 
 SCAnima2DHelper は Anima2D のバージョン： 1.1.4 (Dec 21, 2017) に対応しています。  
+動作確認は Unity 2018.1.0f2 Personal(64bit) / windows 7 64bit で行いました。  
 
 ![SCAnima2DHelper のデモ](README_DATA/Anima2DHelper_demo20180706.gif)
 
