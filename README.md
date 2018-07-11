@@ -19,7 +19,7 @@ SCAnima2DHelper のライセンスは LICENSE.txt に書いてあるとおりで
 SCAnima2DHelper をインポートする前に、 [Anima2D](https://www.assetstore.unity3d.com/jp/#!/content/79840) をインポートしてください。  
 その後、次の手順で SCAnima2DHelper をインポートしてください。  
 
-### unigypackage からインポートする方法
+### unitypackage からインポートする方法
 このリポジトリの SCAnima2DHelper.unitypackage をダウンロードしてください。  
 
 その後、メニュー[Assets]＞[Import Package]＞[Custom Package]  
